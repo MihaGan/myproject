@@ -1,0 +1,23 @@
+img {
+    
+    position: relative
+    max-width: 50px
+    max-height: 100px    
+                
+        
+}
+
+#iskalnik {
+    
+    background-color: aqua
+    position: fixed
+                 
+}
+
+#header {
+    height: 70px
+    background-color: beige
+    width: auto
+    top: 0
+    right: 0
+}
